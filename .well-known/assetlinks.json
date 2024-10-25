@@ -2,9 +2,9 @@
     {
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
-            "namespace": "",
+            "namespace": "com.example.deep_link_test",
             "package_name": "com.example.deep_link_test",
-            "sha256_cert_fingerprints": ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+            "sha256_cert_fingerprints": ["9E:35:90:1F:96:66:3E:2E:9D:82:07:41:9E:F6:2A:EF:89:D4:6A:1D:91:9E:20:E7:B9:97:B8:F5:D4:16:20:51"]
         }
     }
 ]
