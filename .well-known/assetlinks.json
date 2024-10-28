@@ -2,8 +2,8 @@
     {
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
-            "namespace": "com.example.deep_link_test",
-            "package_name": "com.example.deep_link_test",
+            "namespace": "com.egemco.example.deepLinkTest.deep_link_test",
+            "package_name": "com.egemco.example.deepLinkTest.deep_link_test",
             "sha256_cert_fingerprints": ["9E:35:90:1F:96:66:3E:2E:9D:82:07:41:9E:F6:2A:EF:89:D4:6A:1D:91:9E:20:E7:B9:97:B8:F5:D4:16:20:51"]
         }
     }
