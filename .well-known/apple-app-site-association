@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "ABD9PR592F.com.egemco.example.deepLinkTest",
-        "paths": [ "/*" ]
+        "paths": [ "*" ]
       }
     ]
   }
